@@ -1,0 +1,8 @@
+Collaborators:
+None
+
+Libraries used:
+None
+
+Generative AI tools used:
+ChatGPT (OpenAI) — I used as a study and reference aid to clarify concepts (search, minimax, dynamic programming) and to help format the required TSV output files. All problem solving and final answers were completed by me.
